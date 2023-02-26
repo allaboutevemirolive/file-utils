@@ -1,0 +1,1870 @@
+1. Two Sum
+49.3%
+Easy
+9. Palindrome Number
+53.2%
+Easy
+13. Roman to Integer
+58.2%
+Easy
+14. Longest Common Prefix
+40.8%
+Easy
+20. Valid Parentheses
+40.4%
+Easy
+21. Merge Two Sorted Lists
+62.2%
+Easy
+26. Remove Duplicates from Sorted Array
+51.2%
+Easy
+27. Remove Element
+52.6%
+Easy
+35. Search Insert Position
+42.4%
+Easy
+58. Length of Last Word
+41.9%
+Easy
+66. Plus One
+43.6%
+Easy
+67. Add Binary
+51.5%
+Easy
+69. Sqrt(x)
+37.2%
+Easy
+70. Climbing Stairs
+52.1%
+Easy
+83. Remove Duplicates from Sorted List
+50.2%
+Easy
+88. Merge Sorted Array
+46.2%
+Easy
+94. Binary Tree Inorder Traversal
+73.4%
+Easy
+100. Same Tree
+57.8%
+Easy
+101. Symmetric Tree
+53.3%
+Easy
+104. Maximum Depth of Binary Tree
+73.4%
+Easy
+108. Convert Sorted Array to Binary Search Tree
+69.5%
+Easy
+110. Balanced Binary Tree
+48.6%
+Easy
+111. Minimum Depth of Binary Tree
+44.0%
+Easy
+112. Path Sum
+47.9%
+Easy
+118. Pascal's Triangle
+70.0%
+Easy
+119. Pascal's Triangle II
+60.3%
+Easy
+121. Best Time to Buy and Sell Stock
+54.3%
+Easy
+125. Valid Palindrome
+44.0%
+Easy
+136. Single Number
+70.4%
+Easy
+141. Linked List Cycle
+47.2%
+Easy
+144. Binary Tree Preorder Traversal
+66.3%
+Easy
+145. Binary Tree Postorder Traversal
+67.3%
+Easy
+157. Read N Characters Given Read4
+40.9%
+Easy
+160. Intersection of Two Linked Lists
+53.8%
+Easy
+163. Missing Ranges
+32.1%
+Easy
+168. Excel Sheet Column Title
+35.1%
+Easy
+169. Majority Element
+63.9%
+Easy
+170. Two Sum III - Data structure design
+37.4%
+Easy
+171. Excel Sheet Column Number
+61.7%
+Easy
+175. Combine Two Tables
+73.7%
+Easy
+181. Employees Earning More Than Their Managers
+68.9%
+Easy
+182. Duplicate Emails
+70.8%
+Easy
+183. Customers Who Never Order
+68.4%
+Easy
+190. Reverse Bits
+53.2%
+Easy
+191. Number of 1 Bits
+65.8%
+Easy
+193. Valid Phone Numbers
+26.0%
+Easy
+195. Tenth Line
+32.9%
+Easy
+196. Delete Duplicate Emails
+59.9%
+Easy
+197. Rising Temperature
+44.7%
+Easy
+202. Happy Number
+54.7%
+Easy
+203. Remove Linked List Elements
+45.4%
+Easy
+205. Isomorphic Strings
+42.7%
+Easy
+206. Reverse Linked List
+73.0%
+Easy
+217. Contains Duplicate
+61.4%
+Easy
+219. Contains Duplicate II
+42.4%
+Easy
+225. Implement Stack using Queues
+58.2%
+Easy
+226. Invert Binary Tree
+73.7%
+Easy
+228. Summary Ranges
+47.0%
+Easy
+231. Power of Two
+45.9%
+Easy
+232. Implement Queue using Stacks
+62.8%
+Easy
+234. Palindrome Linked List
+49.9%
+Easy
+242. Valid Anagram
+62.9%
+Easy
+243. Shortest Word Distance
+65.0%
+Easy
+246. Strobogrammatic Number
+47.8%
+Easy
+252. Meeting Rooms
+57.2%
+Easy
+257. Binary Tree Paths
+61.0%
+Easy
+258. Add Digits
+63.7%
+Easy
+263. Ugly Number
+42.4%
+Easy
+266. Palindrome Permutation
+66.0%
+Easy
+268. Missing Number
+62.1%
+Easy
+270. Closest Binary Search Tree Value
+54.7%
+Easy
+278. First Bad Version
+43.1%
+Easy
+283. Move Zeroes
+61.4%
+Easy
+290. Word Pattern
+41.7%
+Easy
+292. Nim Game
+56.0%
+Easy
+293. Flip Game
+63.1%
+Easy
+303. Range Sum Query - Immutable
+58.8%
+Easy
+326. Power of Three
+45.4%
+Easy
+338. Counting Bits
+75.5%
+Easy
+342. Power of Four
+45.9%
+Easy
+344. Reverse String
+76.5%
+Easy
+345. Reverse Vowels of a String
+49.9%
+Easy
+346. Moving Average from Data Stream
+77.1%
+Easy
+349. Intersection of Two Arrays
+70.6%
+Easy
+350. Intersection of Two Arrays II
+55.8%
+Easy
+359. Logger Rate Limiter
+75.6%
+Easy
+367. Valid Perfect Square
+43.3%
+Easy
+374. Guess Number Higher or Lower
+51.6%
+Easy
+383. Ransom Note
+57.9%
+Easy
+387. First Unique Character in a String
+59.3%
+Easy
+389. Find the Difference
+60.2%
+Easy
+392. Is Subsequence
+48.3%
+Easy
+401. Binary Watch
+51.9%
+Easy
+404. Sum of Left Leaves
+56.5%
+Easy
+405. Convert a Number to Hexadecimal
+46.4%
+Easy
+408. Valid Word Abbreviation
+34.8%
+Easy
+409. Longest Palindrome
+54.5%
+Easy
+412. Fizz Buzz
+69.5%
+Easy
+414. Third Maximum Number
+32.9%
+Easy
+415. Add Strings
+52.5%
+Easy
+422. Valid Word Square
+39.0%
+Easy
+434. Number of Segments in a String
+37.5%
+Easy
+441. Arranging Coins
+46.2%
+Easy
+448. Find All Numbers Disappeared in an Array
+59.8%
+Easy
+455. Assign Cookies
+50.2%
+Easy
+459. Repeated Substring Pattern
+43.7%
+Easy
+461. Hamming Distance
+74.9%
+Easy
+463. Island Perimeter
+69.6%
+Easy
+476. Number Complement
+67.3%
+Easy
+482. License Key Formatting
+43.3%
+Easy
+485. Max Consecutive Ones
+56.3%
+Easy
+492. Construct the Rectangle
+54.3%
+Easy
+495. Teemo Attacking
+56.9%
+Easy
+496. Next Greater Element I
+71.5%
+Easy
+500. Keyboard Row
+69.4%
+Easy
+501. Find Mode in Binary Search Tree
+49.0%
+Easy
+504. Base 7
+48.2%
+Easy
+506. Relative Ranks
+59.8%
+Easy
+507. Perfect Number
+37.7%
+Easy
+509. Fibonacci Number
+69.5%
+Easy
+511. Game Play Analysis I
+77.0%
+Easy
+512. Game Play Analysis II
+53.3%
+Easy
+520. Detect Capital
+57.1%
+Easy
+521. Longest Uncommon Subsequence I
+60.3%
+Easy
+530. Minimum Absolute Difference in BST
+56.8%
+Easy
+541. Reverse String II
+50.6%
+Easy
+543. Diameter of Binary Tree
+56.4%
+Easy
+551. Student Attendance Record I
+48.2%
+Easy
+557. Reverse Words in a String III
+81.8%
+Easy
+559. Maximum Depth of N-ary Tree
+71.6%
+Easy
+561. Array Partition
+76.9%
+Easy
+563. Binary Tree Tilt
+59.7%
+Easy
+566. Reshape the Matrix
+62.8%
+Easy
+572. Subtree of Another Tree
+46.2%
+Easy
+575. Distribute Candies
+66.3%
+Easy
+577. Employee Bonus
+75.2%
+Easy
+584. Find Customer Referee
+69.7%
+Easy
+586. Customer Placing the Largest Number of Orders
+70.7%
+Easy
+589. N-ary Tree Preorder Traversal
+76.1%
+Easy
+590. N-ary Tree Postorder Traversal
+77.3%
+Easy
+594. Longest Harmonious Subsequence
+53.4%
+Easy
+595. Big Countries
+71.8%
+Easy
+596. Classes More Than 5 Students
+47.5%
+Easy
+597. Friend Requests I: Overall Acceptance Rate
+42.7%
+Easy
+598. Range Addition II
+55.2%
+Easy
+599. Minimum Index Sum of Two Lists
+53.2%
+Easy
+603. Consecutive Available Seats
+67.9%
+Easy
+604. Design Compressed String Iterator
+39.5%
+Easy
+605. Can Place Flowers
+32.7%
+Easy
+606. Construct String from Binary Tree
+63.8%
+Easy
+607. Sales Person
+70.7%
+Easy
+610. Triangle Judgement
+71.0%
+Easy
+613. Shortest Distance in a Line
+81.2%
+Easy
+617. Merge Two Binary Trees
+78.6%
+Easy
+619. Biggest Single Number
+49.4%
+Easy
+620. Not Boring Movies
+72.5%
+Easy
+627. Swap Salary
+83.2%
+Easy
+628. Maximum Product of Three Numbers
+46.2%
+Easy
+637. Average of Levels in Binary Tree
+71.7%
+Easy
+643. Maximum Average Subarray I
+43.8%
+Easy
+645. Set Mismatch
+42.9%
+Easy
+653. Two Sum IV - Input is a BST
+61.0%
+Easy
+657. Robot Return to Origin
+75.3%
+Easy
+661. Image Smoother
+55.2%
+Easy
+671. Second Minimum Node In a Binary Tree
+44.1%
+Easy
+674. Longest Continuous Increasing Subsequence
+49.2%
+Easy
+680. Valid Palindrome II
+39.3%
+Easy
+682. Baseball Game
+74.0%
+Easy
+693. Binary Number with Alternating Bits
+61.4%
+Easy
+696. Count Binary Substrings
+65.6%
+Easy
+697. Degree of an Array
+55.9%
+Easy
+700. Search in a Binary Search Tree
+77.4%
+Easy
+703. Kth Largest Element in a Stream
+55.5%
+Easy
+704. Binary Search
+55.3%
+Easy
+705. Design HashSet
+65.8%
+Easy
+706. Design HashMap
+64.8%
+Easy
+709. To Lower Case
+82.2%
+Easy
+717. 1-bit and 2-bit Characters
+45.9%
+Easy
+724. Find Pivot Index
+54.0%
+Easy
+728. Self Dividing Numbers
+77.8%
+Easy
+733. Flood Fill
+61.3%
+Easy
+734. Sentence Similarity
+43.1%
+Easy
+744. Find Smallest Letter Greater Than Target
+45.2%
+Easy
+746. Min Cost Climbing Stairs
+62.8%
+Easy
+747. Largest Number At Least Twice of Others
+46.8%
+Easy
+748. Shortest Completing Word
+59.2%
+Easy
+760. Find Anagram Mappings
+82.9%
+Easy
+762. Prime Number of Set Bits in Binary Representation
+67.9%
+Easy
+766. Toeplitz Matrix
+68.7%
+Easy
+771. Jewels and Stones
+88.1%
+Easy
+783. Minimum Distance Between BST Nodes
+56.9%
+Easy
+796. Rotate String
+54.6%
+Easy
+800. Similar RGB Color
+67.0%
+Easy
+804. Unique Morse Code Words
+82.7%
+Easy
+806. Number of Lines To Write String
+66.4%
+Easy
+812. Largest Triangle Area
+60.0%
+Easy
+819. Most Common Word
+44.8%
+Easy
+821. Shortest Distance to a Character
+71.4%
+Easy
+824. Goat Latin
+67.9%
+Easy
+830. Positions of Large Groups
+51.8%
+Easy
+832. Flipping an Image
+80.6%
+Easy
+836. Rectangle Overlap
+43.7%
+Easy
+844. Backspace String Compare
+48.0%
+Easy
+859. Buddy Strings
+29.1%
+Easy
+860. Lemonade Change
+52.8%
+Easy
+867. Transpose Matrix
+63.8%
+Easy
+868. Binary Gap
+62.2%
+Easy
+872. Leaf-Similar Trees
+67.6%
+Easy
+876. Middle of the Linked List
+75.0%
+Easy
+883. Projection Area of 3D Shapes
+71.0%
+Easy
+884. Uncommon Words from Two Sentences
+66.2%
+Easy
+888. Fair Candy Swap
+60.7%
+Easy
+892. Surface Area of 3D Shapes
+63.6%
+Easy
+896. Monotonic Array
+58.3%
+Easy
+897. Increasing Order Search Tree
+78.5%
+Easy
+905. Sort Array By Parity
+75.6%
+Easy
+908. Smallest Range I
+68.0%
+Easy
+914. X of a Kind in a Deck of Cards
+31.6%
+Easy
+917. Reverse Only Letters
+61.7%
+Easy
+922. Sort Array By Parity II
+70.7%
+Easy
+925. Long Pressed Name
+33.4%
+Easy
+929. Unique Email Addresses
+67.1%
+Easy
+933. Number of Recent Calls
+73.2%
+Easy
+938. Range Sum of BST
+85.9%
+Easy
+941. Valid Mountain Array
+33.5%
+Easy
+942. DI String Match
+77.0%
+Easy
+944. Delete Columns to Make Sorted
+74.8%
+Easy
+953. Verifying an Alien Dictionary
+52.8%
+Easy
+961. N-Repeated Element in Size 2N Array
+75.9%
+Easy
+965. Univalued Binary Tree
+69.5%
+Easy
+976. Largest Perimeter Triangle
+54.5%
+Easy
+977. Squares of a Sorted Array
+71.9%
+Easy
+989. Add to Array-Form of Integer
+45.5%
+Easy
+993. Cousins in Binary Tree
+54.5%
+Easy
+997. Find the Town Judge
+49.7%
+Easy
+999. Available Captures for Rook
+68.1%
+Easy
+1002. Find Common Characters
+68.4%
+Easy
+1005. Maximize Sum Of Array After K Negations
+50.9%
+Easy
+1009. Complement of Base 10 Integer
+61.7%
+Easy
+1013. Partition Array Into Three Parts With Equal Sum
+42.9%
+Easy
+1018. Binary Prefix Divisible By 5
+47.1%
+Easy
+1021. Remove Outermost Parentheses
+80.4%
+Easy
+1022. Sum of Root To Leaf Binary Numbers
+73.7%
+Easy
+1025. Divisor Game
+67.4%
+Easy
+1030. Matrix Cells in Distance Order
+69.5%
+Easy
+1037. Valid Boomerang
+37.3%
+Easy
+1046. Last Stone Weight
+64.8%
+Easy
+1047. Remove All Adjacent Duplicates In String
+70.0%
+Easy
+1050. Actors and Directors Who Cooperated At Least Three Times
+71.5%
+Easy
+1051. Height Checker
+75.3%
+Easy
+1056. Confusing Number
+48.2%
+Easy
+1064. Fixed Point
+64.2%
+Easy
+1065. Index Pairs of a String
+63.5%
+Easy
+1068. Product Sales Analysis I
+80.3%
+Easy
+1069. Product Sales Analysis II
+81.8%
+Easy
+1071. Greatest Common Divisor of Strings
+51.0%
+Easy
+1075. Project Employees I
+66.8%
+Easy
+1076. Project Employees II
+50.6%
+Easy
+1078. Occurrences After Bigram
+63.7%
+Easy
+1082. Sales Analysis I
+75.1%
+Easy
+1083. Sales Analysis II
+50.2%
+Easy
+1084. Sales Analysis III
+50.2%
+Easy
+1085. Sum of Digits in the Minimum Number
+76.2%
+Easy
+1086. High Five
+75.1%
+Easy
+1089. Duplicate Zeros
+51.5%
+Easy
+1099. Two Sum Less Than K
+61.0%
+Easy
+1103. Distribute Candies to People
+64.1%
+Easy
+1108. Defanging an IP Address
+89.2%
+Easy
+1113. Reported Posts
+65.9%
+Easy
+1114. Print in Order
+68.3%
+Easy
+1118. Number of Days in a Month
+57.0%
+Easy
+1119. Remove Vowels from a String
+90.8%
+Easy
+1122. Relative Sort Array
+68.5%
+Easy
+1128. Number of Equivalent Domino Pairs
+47.1%
+Easy
+1133. Largest Unique Number
+67.5%
+Easy
+1134. Armstrong Number
+78.2%
+Easy
+1137. N-th Tribonacci Number
+63.2%
+Easy
+1141. User Activity for the Past 30 Days I
+49.3%
+Easy
+1142. User Activity for the Past 30 Days II
+35.9%
+Easy
+1148. Article Views I
+76.7%
+Easy
+1150. Check If a Number Is Majority Element in a Sorted Array
+57.1%
+Easy
+1154. Day of the Year
+49.9%
+Easy
+1160. Find Words That Can Be Formed by Characters
+67.7%
+Easy
+1165. Single-Row Keyboard
+86.5%
+Easy
+1173. Immediate Food Delivery I
+83.1%
+Easy
+1175. Prime Arrangements
+54.1%
+Easy
+1176. Diet Plan Performance
+52.6%
+Easy
+1179. Reformat Department Table
+81.6%
+Easy
+1180. Count Substrings with Only One Distinct Letter
+79.0%
+Easy
+1184. Distance Between Bus Stops
+54.2%
+Easy
+1185. Day of the Week
+57.7%
+Easy
+1189. Maximum Number of Balloons
+61.4%
+Easy
+1196. How Many Apples Can You Put into the Basket
+66.9%
+Easy
+1200. Minimum Absolute Difference
+69.7%
+Easy
+1207. Unique Number of Occurrences
+73.6%
+Easy
+1211. Queries Quality and Percentage
+71.7%
+Easy
+1213. Intersection of Three Sorted Arrays
+79.9%
+Easy
+1217. Minimum Cost to Move Chips to The Same Position
+72.1%
+Easy
+1221. Split a String in Balanced Strings
+85.0%
+Easy
+1228. Missing Number In Arithmetic Progression
+51.4%
+Easy
+1232. Check If It Is a Straight Line
+40.7%
+Easy
+1241. Number of Comments per Post
+67.1%
+Easy
+1243. Array Transformation
+50.9%
+Easy
+1251. Average Selling Price
+82.4%
+Easy
+1252. Cells with Odd Values in a Matrix
+78.6%
+Easy
+1260. Shift 2D Grid
+67.9%
+Easy
+1266. Minimum Time Visiting All Points
+79.1%
+Easy
+1271. Hexspeak
+57.1%
+Easy
+1275. Find Winner on a Tic Tac Toe Game
+54.2%
+Easy
+1279. Traffic Light Controlled Intersection
+74.3%
+Easy
+1280. Students and Examinations
+73.3%
+Easy
+1281. Subtract the Product and Sum of Digits of an Integer
+86.7%
+Easy
+1287. Element Appearing More Than 25% In Sorted Array
+59.5%
+Easy
+1290. Convert Binary Number in a Linked List to Integer
+82.4%
+Easy
+1294. Weather Type in Each Country
+67.7%
+Easy
+1295. Find Numbers with Even Number of Digits
+77.0%
+Easy
+1299. Replace Elements with Greatest Element on Right Side
+74.1%
+Easy
+1303. Find the Team Size
+90.6%
+Easy
+1304. Find N Unique Integers Sum up to Zero
+77.1%
+Easy
+1309. Decrypt String from Alphabet to Integer Mapping
+79.6%
+Easy
+1313. Decompress Run-Length Encoded List
+85.9%
+Easy
+1317. Convert Integer to the Sum of Two No-Zero Integers
+55.9%
+Easy
+1322. Ads Performance
+60.6%
+Easy
+1323. Maximum 69 Number
+82.1%
+Easy
+1327. List the Products Ordered in a Period
+76.7%
+Easy
+1331. Rank Transform of an Array
+59.2%
+Easy
+1332. Remove Palindromic Subsequences
+76.2%
+Easy
+1337. The K Weakest Rows in a Matrix
+72.3%
+Easy
+1342. Number of Steps to Reduce a Number to Zero
+85.3%
+Easy
+1346. Check If N and Its Double Exist
+36.4%
+Easy
+1350. Students With Invalid Departments
+90.4%
+Easy
+1351. Count Negative Numbers in a Sorted Matrix
+75.4%
+Easy
+1356. Sort Integers by The Number of 1 Bits
+72.5%
+Easy
+1360. Number of Days Between Two Dates
+47.9%
+Easy
+1365. How Many Numbers Are Smaller Than the Current Number
+86.7%
+Easy
+1370. Increasing Decreasing String
+77.3%
+Easy
+1374. Generate a String With Characters That Have Odd Counts
+77.6%
+Easy
+1378. Replace Employee ID With The Unique Identifier
+91.3%
+Easy
+1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+86.8%
+Easy
+1380. Lucky Numbers in a Matrix
+70.5%
+Easy
+1385. Find the Distance Value Between Two Arrays
+66.0%
+Easy
+1389. Create Target Array in the Given Order
+85.9%
+Easy
+1394. Find Lucky Integer in an Array
+63.9%
+Easy
+1399. Count Largest Group
+67.1%
+Easy
+1403. Minimum Subsequence in Non-Increasing Order
+72.2%
+Easy
+1407. Top Travellers
+64.4%
+Easy
+1408. String Matching in an Array
+63.9%
+Easy
+1413. Minimum Value to Get Positive Step by Step Sum
+67.7%
+Easy
+1417. Reformat The String
+55.2%
+Easy
+1421. NPV Queries
+83.9%
+Easy
+1422. Maximum Score After Splitting a String
+57.9%
+Easy
+1426. Counting Elements
+59.7%
+Easy
+1427. Perform String Shifts
+54.3%
+Easy
+1431. Kids With the Greatest Number of Candies
+87.4%
+Easy
+1435. Create a Session Bar Chart
+77.4%
+Easy
+1436. Destination City
+77.6%
+Easy
+1437. Check If All 1's Are at Least Length K Places Away
+59.0%
+Easy
+1446. Consecutive Characters
+61.4%
+Easy
+1450. Number of Students Doing Homework at a Given Time
+75.9%
+Easy
+1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+64.3%
+Easy
+1460. Make Two Arrays Equal by Reversing Subarrays
+72.2%
+Easy
+1464. Maximum Product of Two Elements in an Array
+79.7%
+Easy
+1469. Find All The Lonely Nodes
+82.0%
+Easy
+1470. Shuffle the Array
+88.4%
+Easy
+1474. Delete N Nodes After M Nodes of a Linked List
+73.7%
+Easy
+1475. Final Prices With a Special Discount in a Shop
+75.8%
+Easy
+1480. Running Sum of 1d Array
+88.4%
+Easy
+1484. Group Sold Products By The Date
+81.6%
+Easy
+1486. XOR Operation in an Array
+84.4%
+Easy
+1491. Average Salary Excluding the Minimum and Maximum Salary
+62.0%
+Easy
+1495. Friendly Movies Streamed Last Month
+49.5%
+Easy
+1496. Path Crossing
+55.9%
+Easy
+1502. Can Make Arithmetic Progression From Sequence
+68.0%
+Easy
+1507. Reformat Date
+62.9%
+Easy
+1511. Customer Order Frequency
+72.3%
+Easy
+1512. Number of Good Pairs
+88.3%
+Easy
+1517. Find Users With Valid E-Mails
+54.9%
+Easy
+1518. Water Bottles
+60.3%
+Easy
+1523. Count Odd Numbers in an Interval Range
+46.0%
+Easy
+1527. Patients With a Condition
+41.5%
+Easy
+1528. Shuffle String
+85.5%
+Easy
+1534. Count Good Triplets
+80.9%
+Easy
+1539. Kth Missing Positive Number
+56.1%
+Easy
+1543. Fix Product Name Format
+61.5%
+Easy
+1544. Make The String Great
+63.3%
+Easy
+1550. Three Consecutive Odds
+63.6%
+Easy
+1556. Thousand Separator
+54.8%
+Easy
+1560. Most Visited Sector in a Circular Track
+58.4%
+Easy
+1565. Unique Orders and Customers Per Month
+83.1%
+Easy
+1566. Detect Pattern of Length M Repeated K or More Times
+43.6%
+Easy
+1571. Warehouse Manager
+89.7%
+Easy
+1572. Matrix Diagonal Sum
+80.0%
+Easy
+1576. Replace All ?'s to Avoid Consecutive Repeating Characters
+48.7%
+Easy
+1581. Customer Who Visited but Did Not Make Any Transactions
+86.5%
+Easy
+1582. Special Positions in a Binary Matrix
+65.5%
+Easy
+1587. Bank Account Summary II
+87.9%
+Easy
+1588. Sum of All Odd Length Subarrays
+83.5%
+Easy
+1592. Rearrange Spaces Between Words
+43.6%
+Easy
+1598. Crawler Log Folder
+64.4%
+Easy
+1603. Design Parking System
+88.0%
+Easy
+1607. Sellers With No Sales
+55.2%
+Easy
+1608. Special Array With X Elements Greater Than or Equal X
+60.3%
+Easy
+1614. Maximum Nesting Depth of the Parentheses
+82.5%
+Easy
+1619. Mean of Array After Removing Some Elements
+65.3%
+Easy
+1623. All Valid Triplets That Can Represent a Country
+87.3%
+Easy
+1624. Largest Substring Between Two Equal Characters
+59.0%
+Easy
+1629. Slowest Key
+59.3%
+Easy
+1633. Percentage of Users Attended a Contest
+67.8%
+Easy
+1636. Sort Array by Increasing Frequency
+69.2%
+Easy
+1640. Check Array Formation Through Concatenation
+56.2%
+Easy
+1646. Get Maximum in Generated Array
+50.2%
+Easy
+1652. Defuse the Bomb
+61.8%
+Easy
+1656. Design an Ordered Stream
+85.3%
+Easy
+1661. Average Time of Process per Machine
+78.8%
+Easy
+1662. Check If Two String Arrays are Equivalent
+83.4%
+Easy
+1667. Fix Names in a Table
+66.0%
+Easy
+1668. Maximum Repeating Substring
+39.6%
+Easy
+1672. Richest Customer Wealth
+88.1%
+Easy
+1677. Product's Worth Over Invoices
+38.7%
+Easy
+1678. Goal Parser Interpretation
+86.3%
+Easy
+1683. Invalid Tweets
+90.9%
+Easy
+1684. Count the Number of Consistent Strings
+82.0%
+Easy
+1688. Count of Matches in Tournament
+83.1%
+Easy
+1693. Daily Leads and Partners
+89.1%
+Easy
+1694. Reformat Phone Number
+65.1%
+Easy
+1700. Number of Students Unable to Eat Lunch
+68.2%
+Easy
+1704. Determine if String Halves Are Alike
+77.9%
+Easy
+1708. Largest Subarray Length K
+63.8%
+Easy
+1710. Maximum Units on a Truck
+73.9%
+Easy
+1716. Calculate Money in Leetcode Bank
+65.7%
+Easy
+1720. Decode XORed Array
+85.9%
+Easy
+1725. Number Of Rectangles That Can Form The Largest Square
+78.7%
+Easy
+1729. Find Followers Count
+71.4%
+Easy
+1731. The Number of Employees Which Report to Each Employee
+49.8%
+Easy
+1732. Find the Highest Altitude
+78.8%
+Easy
+1736. Latest Time by Replacing Hidden Digits
+42.3%
+Easy
+1741. Find Total Time Spent by Each Employee
+90.7%
+Easy
+1742. Maximum Number of Balls in a Box
+73.9%
+Easy
+1748. Sum of Unique Elements
+76.0%
+Easy
+1752. Check if Array Is Sorted and Rotated
+49.8%
+Easy
+1757. Recyclable and Low Fat Products
+93.1%
+Easy
+1758. Minimum Changes To Make Alternating Binary String
+58.4%
+Easy
+1763. Longest Nice Substring
+61.6%
+Easy
+1768. Merge Strings Alternately
+76.7%
+Easy
+1773. Count Items Matching a Rule
+84.3%
+Easy
+1777. Product's Price for Each Store
+84.8%
+Easy
+1779. Find Nearest Point That Has the Same X or Y Coordinate
+67.5%
+Easy
+1784. Check if Binary String Has at Most One Segment of Ones
+40.3%
+Easy
+1789. Primary Department for Each Employee
+79.6%
+Easy
+1790. Check if One String Swap Can Make Strings Equal
+45.5%
+Easy
+1791. Find Center of Star Graph
+83.5%
+Easy
+1795. Rearrange Products Table
+87.8%
+Easy
+1796. Second Largest Digit in a String
+49.2%
+Easy
+1800. Maximum Ascending Subarray Sum
+63.4%
+Easy
+1805. Number of Different Integers in a String
+36.4%
+Easy
+1809. Ad-Free Sessions
+59.6%
+Easy
+1812. Determine Color of a Chessboard Square
+77.6%
+Easy
+1816. Truncate Sentence
+82.6%
+Easy
+1821. Find Customers With Positive Revenue this Year
+89.3%
+Easy
+1822. Sign of the Product of an Array
+65.7%
+Easy
+1826. Faulty Sensor
+49.6%
+Easy
+1827. Minimum Operations to Make the Array Increasing
+78.4%
+Easy
+1832. Check if the Sentence Is Pangram
+83.7%
+Easy
+1837. Sum of Digits in Base K
+76.9%
+Easy
+1844. Replace All Digits with Characters
+80.0%
+Easy
+1848. Minimum Distance to the Target Element
+58.3%
+Easy
+1853. Convert Date Format
+87.4%
+Easy
+1854. Maximum Population Year
+60.1%
+Easy
+1859. Sorting the Sentence
+84.3%
+Easy
+1863. Sum of All Subset XOR Totals
+79.5%
+Easy
+1869. Longer Contiguous Segments of Ones than Zeros
+60.4%
+Easy
+1873. Calculate Special Bonus
+61.3%
+Easy
+1876. Substrings of Size Three with Distinct Characters
+70.7%
+Easy
+1880. Check if Word Equals Summation of Two Words
+74.0%
+Easy
+1886. Determine Whether Matrix Can Be Obtained By Rotation
+55.6%
+Easy
+1890. The Latest Login in 2020
+80.3%
+Easy
+1893. Check if All the Integers in a Range Are Covered
+50.7%
+Easy
+1897. Redistribute Characters to Make All Strings Equal
+59.8%
+Easy
+1903. Largest Odd Number in String
+55.9%
+Easy
+1909. Remove One Element to Make the Array Strictly Increasing
+26.1%
+Easy
+1913. Maximum Product Difference Between Two Pairs
+81.3%
+Easy
+1920. Build Array from Permutation
+90.8%
+Easy
+1925. Count Square Sum Triples
+68.1%
+Easy
+1929. Concatenation of Array
+90.8%
+Easy
+1933. Check if String Is Decomposable Into Value-Equal Substrings
+50.2%
+Easy
+1935. Maximum Number of Words You Can Type
+71.2%
+Easy
+1939. Users That Actively Request Confirmation Messages
+60.3%
+Easy
+1941. Check if All Characters Have Equal Number of Occurrences
+76.9%
+Easy
+1945. Sum of Digits of String After Convert
+61.4%
+Easy
+1952. Three Divisors
+57.5%
+Easy
+1957. Delete Characters to Make Fancy String
+56.9%
+Easy
+1961. Check If String Is a Prefix of Array
+53.8%
+Easy
+1965. Employees With Missing Information
+78.0%
+Easy
+1967. Number of Strings That Appear as Substrings in Word
+80.0%
+Easy
+1971. Find if Path Exists in Graph
+52.4%
+Easy
+1974. Minimum Time to Type Word Using Special Typewriter
+71.9%
+Easy
+1978. Employees Whose Manager Left the Company
+50.4%
+Easy
+1979. Find Greatest Common Divisor of Array
+76.7%
+Easy
+1984. Minimum Difference Between Highest and Lowest of K Scores
+54.2%
+Easy
+1991. Find the Middle Index in Array
+67.4%
+Easy
+1995. Count Special Quadruplets
+59.6%
+Easy
+2000. Reverse Prefix of Word
+78.2%
+Easy
+2006. Count Number of Pairs With Absolute Difference K
+82.6%
+Easy
+2011. Final Value of Variable After Performing Operations
+88.8%
+Easy
+2016. Maximum Difference Between Increasing Elements
+53.9%
+Easy
+2022. Convert 1D Array Into 2D Array
+58.7%
+Easy
+2026. Low-Quality Problems
+85.2%
+Easy
+2027. Minimum Moves to Convert String
+53.9%
+Easy
+2032. Two Out of Three
+73.0%
+Easy
+2037. Minimum Number of Moves to Seat Everyone
+82.1%
+Easy
+2042. Check if Numbers Are Ascending in a Sentence
+66.7%
+Easy
+2047. Number of Valid Words in a Sentence
+29.5%
+Easy
+2053. Kth Distinct String in an Array
+71.9%
+Easy
+2057. Smallest Index With Equal Value
+71.5%
+Easy
+2062. Count Vowel Substrings of a String
+66.1%
+Easy
+2068. Check Whether Two Strings are Almost Equivalent
+64.5%
+Easy
+2072. The Winner University
+72.6%
+Easy
+2073. Time Needed to Buy Tickets
+62.1%
+Easy
+2078. Two Furthest Houses With Different Colors
+67.1%
+Easy
+2082. The Number of Rich Customers
+80.3%
+Easy
+2085. Count Common Words With One Occurrence
+69.9%
+Easy
+2089. Find Target Indices After Sorting Array
+76.6%
+Easy
+2094. Finding 3-Digit Even Numbers
+57.7%
+Easy
+2099. Find Subsequence of Length K With the Largest Sum
+42.8%
+Easy
+2103. Rings and Rods
+81.4%
+Easy
+2108. Find First Palindromic String in the Array
+78.6%
+Easy
+2114. Maximum Number of Words Found in Sentences
+87.7%
+Easy
+2119. A Number After a Double Reversal
+76.4%
+Easy
+2124. Check if All A's Appears Before All B's
+71.4%
+Easy
+2129. Capitalize the Title
+61.7%
+Easy
+2133. Check if Every Row and Column Contains All Numbers
+52.8%
+Easy
+2138. Divide a String Into Groups of Size k
+65.3%
+Easy
+2144. Minimum Cost of Buying Candies With Discount
+60.9%
+Easy
+2148. Count Elements With Strictly Smaller and Greater Elements
+59.9%
+Easy
+2154. Keep Multiplying Found Values by Two
+73.0%
+Easy
+2160. Minimum Sum of Four Digit Number After Splitting Digits
+87.6%
+Easy
+2164. Sort Even and Odd Indices Independently
+65.8%
+Easy
+2169. Count Operations to Obtain Zero
+75.4%
+Easy
+2176. Count Equal and Divisible Pairs in an Array
+80.2%
+Easy
+2180. Count Integers With Even Digit Sum
+65.1%
+Easy
+2185. Counting Words With a Given Prefix
+77.2%
+Easy
+2190. Most Frequent Number Following Key In an Array
+60.3%
+Easy
+2194. Cells in a Range on an Excel Sheet
+85.4%
+Easy
+2200. Find All K-Distant Indices in an Array
+64.8%
+Easy
+2205. The Number of Users That Are Eligible for Discount
+50.7%
+Easy
+2206. Divide Array Into Equal Pairs
+74.3%
+Easy
+2210. Count Hills and Valleys in an Array
+58.3%
+Easy
+2215. Find the Difference of Two Arrays
+70.1%
+Easy
+2220. Minimum Bit Flips to Convert Number
+82.2%
+Easy
+2224. Minimum Number of Operations to Convert Time
+65.5%
+Easy
+2229. Check if an Array Is Consecutive
+61.3%
+Easy
+2230. The Users That Are Eligible for Discount
+50.5%
+Easy
+2231. Largest Number After Digit Swaps by Parity
+60.8%
+Easy
+2235. Add Two Integers
+89.1%
+Easy
+2236. Root Equals Sum of Children
+85.9%
+Easy
+2239. Find Closest Number to Zero
+45.7%
+Easy
+2243. Calculate Digit Sum of a String
+66.6%
+Easy
+2248. Intersection of Multiple Arrays
+69.2%
+Easy
+2255. Count Prefixes of a Given String
+73.1%
+Easy
+2259. Remove Digit From Number to Maximize Result
+46.7%
+Easy
+2264. Largest 3-Same-Digit Number in String
+59.3%
+Easy
+2269. Find the K-Beauty of a Number
+57.3%
+Easy
+2273. Find Resultant Array After Removing Anagrams
+58.3%
+Easy
+2278. Percentage of Letter in String
+74.2%
+Easy
+2283. Check if Number Has Equal Digit Count and Digit Value
+73.3%
+Easy
+2287. Rearrange Characters to Make Target String
+58.1%
+Easy
+2293. Min Max Game
+64.1%
+Easy
+2299. Strong Password Checker II
+56.5%
+Easy
+2303. Calculate Amount Paid in Taxes
+64.0%
+Easy
+2309. Greatest English Letter in Upper and Lower Case
+68.6%
+Easy
+2315. Count Asterisks
+82.4%
+Easy
+2319. Check if Matrix Is X-Matrix
+67.1%
+Easy
+2325. Decode the Message
+84.9%
+Easy
+2329. Product Sales Analysis V
+69.4%
+Easy
+2331. Evaluate Boolean Binary Tree
+79.0%
+Easy
+2335. Minimum Amount of Time to Fill Cups
+55.9%
+Easy
+2339. All the Matches of the League
+88.7%
+Easy
+2341. Maximum Number of Pairs in Array
+76.3%
+Easy
+2347. Best Poker Hand
+60.7%
+Easy
+2351. First Letter to Appear Twice
+75.6%
+Easy
+2356. Number of Unique Subjects Taught by Each Teacher
+91.0%
+Easy
+2357. Make Array Zero by Subtracting Equal Amounts
+72.8%
+Easy
+2363. Merge Similar Items
+75.5%
+Easy
+2367. Number of Arithmetic Triplets
+83.7%
+Easy
+2373. Largest Local Values in a Matrix
+83.7%
+Easy
+2377. Sort the Olympic Table
+79.9%
+Easy
+2379. Minimum Recolors to Get K Consecutive Black Blocks
+57.3%
+Easy
+2383. Minimum Hours of Training to Win a Competition
+41.0%
+Easy
+2389. Longest Subsequence With Limited Sum
+72.7%
+Easy
+2395. Find Subarrays With Equal Sum
+64.5%
+Easy
+2399. Check Distances Between Same Letters
+70.7%
+Easy
+2404. Most Frequent Even Element
+51.3%
+Easy
+2409. Count Days Spent Together
+43.3%
+Easy
+2413. Smallest Even Multiple
+87.7%
+Easy
+2418. Sort the People
+81.4%
+Easy
+2423. Remove Letter To Equalize Frequency
+18.5%
+Easy
+2427. Number of Common Factors
+79.9%
+Easy
+2432. The Employee That Worked on the Longest Task
+49.3%
+Easy
+2437. Number of Valid Clock Times
+42.6%
+Easy
+2441. Largest Positive Integer That Exists With Its Negative
+67.8%
+Easy
+2446. Determine if Two Events Have Conflict
+49.8%
+Easy
+2451. Odd String Difference
+60.2%
+Easy
+2455. Average Value of Even Numbers That Are Divisible by Three
+58.7%
+Easy
+2460. Apply Operations to an Array
+67.3%
+Easy
+2465. Number of Distinct Averages
+58.7%
+Easy
+2469. Convert the Temperature
+89.6%
+Easy
+2475. Number of Unequal Triplets in Array
+70.6%
+Easy
+2480. Form a Chemical Bond
+51.2%
+Easy
+2481. Minimum Cuts to Divide a Circle
+52.2%
+Easy
+2485. Find the Pivot Integer
+79.8%
+Easy
+2490. Circular Sentence
+65.2%
+Easy
+2496. Maximum Value of a String in an Array
+71.9%
+Easy
+2500. Delete Greatest Value in Each Row
+82.7%
+Easy
+2504. Concatenate the Name and the Profession
+50.9%
+Easy
+2506. Count Pairs Of Similar Strings
+70.1%
+Easy
+2511. Maximum Enemy Forts That Can Be Captured
+36.9%
+Easy
+2515. Shortest Distance to Target String in a Circular Array
+48.8%
+Easy
+2520. Count the Digits That Divide a Number
+84.8%
+Easy
+2525. Categorize Box According to Criteria
+33.3%
+Easy
+2529. Maximum Count of Positive Integer and Negative Integer
+77.9%
+Easy
+2535. Difference Between Element Sum and Digit Sum of an Array
+88.2%
+Easy
+2540. Minimum Common Value
+53.0%
+Easy
+2544. Alternating Digit Sum
+69.5%
+Easy
+
