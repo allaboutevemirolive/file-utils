@@ -53,6 +53,6 @@ ___
 
 4. JSON Adder.py
 
-This Python code is `optional`. It's for VS Code users who want more flexibility and don't want to open each folder manually when they want to test their code.
+This Python code is `optional`. It's for `VS Code users` who want more flexibility and don't want to open each folder manually when they want to test their code.
 
-Update json file so user can test their code even when there are in other folders.
+Update json file so user can test their code even when there are in other subfolders.
