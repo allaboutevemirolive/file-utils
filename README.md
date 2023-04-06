@@ -14,6 +14,8 @@ See the input sample in the Example folder.
 
 Filters the input file with removing unnecessary `info` and problematic `symbols` that could hinder the creation of folders. 
 
+Create `json` file for vscode users. It gives flexibility for those who don't want to open each folder manually when they want to test their code.
+
 It then creates a new file with the filtered data.
 
 Input :
@@ -41,10 +43,3 @@ ___
 
 Creates mass folders with the names provided in the output file.
 
-___
-
-3. JSON Adder.py
-
-This Python code is `optional`. It's for `VS Code users` who want more flexibility and don't want to open each folder manually when they want to test their code.
-
-Update json file so user can test their code even when there are in other subfolders.
