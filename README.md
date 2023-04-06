@@ -10,9 +10,11 @@ See the input sample in the Example folder.
 
 # Code Explanation
 
-1. LC Filter.py
+1. leetcodeCleaner.py
 
-Filters the input file to remove unnecessary info and put it in new output file, so we can use it to create folders.
+Filters the input file with removing unnecessary `info` and problematic `symbols` that could hinder the creation of folders. 
+
+It then creates a new file with the filtered data.
 
 Input :
 ```
@@ -34,24 +36,14 @@ Output:
 13. Roman to Integer
 ```
 ___
-2. Symbols Remover.py
 
-Removes problematic symbols that could hinder the creation of folders. Since Windows and Linux doesn't allow some symbols in folder names.
-
-Symbols that can't be used in folder names:
-```
-symbols = '/ \ : * ? " < > | '
-```
-
-___
-
-3. Bulk File Creator.py
+2. Bulk File Creator.py
 
 Creates mass folders with the names provided in the output file.
 
 ___
 
-4. JSON Adder.py
+3. JSON Adder.py
 
 This Python code is `optional`. It's for `VS Code users` who want more flexibility and don't want to open each folder manually when they want to test their code.
 

@@ -1,4 +1,3 @@
-import os
 
 # Prompt the user for the file name
 file_name = "Easy_output.txt"
