@@ -1,15 +1,15 @@
 4. Median of Two Sorted Arrays
 10. Regular Expression Matching
 23. Merge k Sorted Lists
-25. Reverse Nodes in k Group
+25. Reverse Nodes in k-Group
 30. Substring with Concatenation of All Words
 32. Longest Valid Parentheses
 37. Sudoku Solver
 41. First Missing Positive
 42. Trapping Rain Water
 44. Wildcard Matching
-51. N Queens
-52. N Queens II
+51. N-Queens
+52. N-Queens II
 60. Permutation Sequence
 65. Valid Number
 68. Text Justification
@@ -28,7 +28,7 @@
 140. Word Break II
 149. Max Points on a Line
 154. Find Minimum in Rotated Sorted Array II
-158. Read N Characters Given read4 II Call Multiple Times
+158. Read N Characters Given read4 II - Call Multiple Times
 164. Maximum Gap
 174. Dungeon Game
 185. Department Top Three Salaries
@@ -53,7 +53,7 @@
 301. Remove Invalid Parentheses
 302. Smallest Rectangle Enclosing Black Pixels
 305. Number of Islands II
-308. Range Sum Query 2D Mutable
+308. Range Sum Query 2D - Mutable
 312. Burst Balloons
 315. Count of Smaller Numbers After Self
 317. Shortest Distance from All Buildings
@@ -68,7 +68,7 @@
 354. Russian Doll Envelopes
 358. Rearrange String k Distance Apart
 363. Max Sum of Rectangle No Larger Than K
-381. Insert Delete GetRandom O 1 Duplicates allowed
+381. Insert Delete GetRandom O(1) - Duplicates allowed
 391. Perfect Rectangle
 403. Frog Jump
 407. Trapping Rain Water II
@@ -76,11 +76,11 @@
 411. Minimum Unique Word Abbreviation
 420. Strong Password Checker
 425. Word Squares
-428. Serialize and Deserialize N ary Tree
-431. Encode N ary Tree to Binary Tree
+428. Serialize and Deserialize N-ary Tree
+431. Encode N-ary Tree to Binary Tree
 432. All O`one Data Structure
-440. K th Smallest in Lexicographical Order
-446. Arithmetic Slices II Subsequence
+440. K-th Smallest in Lexicographical Order
+446. Arithmetic Slices II - Subsequence
 458. Poor Pigs
 460. LFU Cache
 465. Optimal Account Balancing
@@ -107,11 +107,11 @@
 571. Find Median Given Frequency of Numbers
 579. Find Cumulative Salary of an Employee
 587. Erect the Fence
-588. Design In Memory File System
+588. Design In-Memory File System
 591. Tag Validator
-600. Non negative Integers without Consecutive Ones
+600. Non-negative Integers without Consecutive Ones
 601. Human Traffic of Stadium
-615. Average Salary Departments VS Company
+615. Average Salary: Departments VS Company
 618. Students Report By Geography
 629. K Inverse Pairs Array
 630. Course Schedule III
@@ -128,14 +128,14 @@
 679. 24 Game
 683. K Empty Slots
 685. Redundant Connection II
-689. Maximum Sum of 3 Non Overlapping Subarrays
+689. Maximum Sum of 3 Non-Overlapping Subarrays
 691. Stickers to Spell Word
 699. Falling Squares
 710. Random Pick with Blacklist
 711. Number of Distinct Islands II
 715. Range Module
 716. Max Stack
-719. Find K th Smallest Pair Distance
+719. Find K-th Smallest Pair Distance
 726. Number of Atoms
 727. Minimum Window Subsequence
 730. Count Different Palindromic Subsequences
@@ -173,7 +173,7 @@
 843. Guess the Word
 847. Shortest Path Visiting All Nodes
 850. Rectangle Area II
-854. K Similar Strings
+854. K-Similar Strings
 857. Minimum Cost to Hire K Workers
 862. Shortest Subarray with Sum at Least K
 864. Shortest Path to Get All Keys
@@ -255,7 +255,7 @@
 1246. Palindrome Removal
 1250. Check If It Is a Good Array
 1255. Maximum Score Words Formed by Letters
-1259. Handshakes That Don t Cross
+1259. Handshakes That Don't Cross
 1263. Minimum Moves to Move a Box to Their Target Location
 1269. Number of Ways to Stay in the Same Place After Some Steps
 1274. Number of Ships in a Rectangle
@@ -307,14 +307,14 @@
 1478. Allocate Mailboxes
 1479. Sales by Day of the Week
 1483. Kth Ancestor of a Tree Node
-1489. Find Critical and Pseudo Critical Edges in Minimum Spanning Tree
+1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 1494. Parallel Courses II
 1499. Max Value of Equation
 1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
 1510. Stone Game IV
 1515. Best Position for a Service Centre
-1516. Move Sub Tree of N Ary Tree
-1520. Maximum Number of Non Overlapping Substrings
+1516. Move Sub-Tree of N-Ary Tree
+1520. Maximum Number of Non-Overlapping Substrings
 1521. Find a Value of a Mysterious Function Closest to Target
 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 1531. String Compression II
@@ -359,7 +359,7 @@
 1703. Minimum Adjacent Swaps for K Consecutive Ones
 1707. Maximum XOR With an Element From Array
 1713. Minimum Operations to Make a Subsequence
-1714. Sum Of Special Evenly Spaced Elements In Array
+1714. Sum Of Special Evenly-Spaced Elements In Array
 1719. Number Of Ways To Reconstruct A Tree
 1723. Find Minimum Time to Finish All Jobs
 1724. Checking Existence of Edge Length Limited Paths II
@@ -432,7 +432,7 @@
 2014. Longest Subsequence Repeated k Times
 2019. The Score of Students Solving Math Expression
 2025. Maximum Number of Ways to Partition an Array
-2030. Smallest K Length Subsequence With Occurrences of a Letter
+2030. Smallest K-Length Subsequence With Occurrences of a Letter
 2035. Partition Array Into Two Arrays to Minimize Sum Difference
 2040. Kth Smallest Product of Two Sorted Arrays
 2045. Second Minimum Time to Reach Destination
@@ -442,13 +442,13 @@
 2065. Maximum Path Quality of a Graph
 2071. Maximum Number of Tasks You Can Assign
 2076. Process Restricted Friend Requests
-2081. Sum of k Mirror Numbers
+2081. Sum of k-Mirror Numbers
 2088. Count Fertile Pyramids in a Land
 2092. Find All People With Secret
 2097. Valid Arrangement of Pairs
 2102. Sequentially Ordinal Rank Tracker
 2106. Maximum Fruits Harvested After at Most K Steps
-2111. Minimum Operations to Make the Array K Increasing
+2111. Minimum Operations to Make the Array K-Increasing
 2117. Abbreviating the Product of a Range
 2118. Build the Equation
 2122. Recover the Original Array
@@ -472,7 +472,7 @@
 2183. Count Array Pairs Divisible by K
 2188. Minimum Time to Finish the Race
 2193. Minimum Number of Moves to Make Palindrome
-2197. Replace Non Coprime Numbers in Array
+2197. Replace Non-Coprime Numbers in Array
 2199. Finding the Topic of Each Post
 2203. Minimum Weighted Subgraph With the Required Paths
 2204. Distance to a Cycle in Undirected Graph
@@ -491,7 +491,7 @@
 2254. Design Video Sharing Platform
 2258. Escape the Spreading Fire
 2262. Total Appeal of A String
-2263. Make Array Non decreasing or Non increasing
+2263. Make Array Non-decreasing or Non-increasing
 2267. Check if There Is a Valid Parentheses String Path
 2272. Substring With Largest Variance
 2276. Count Integers in Intervals
@@ -523,7 +523,7 @@
 2371. Minimize Maximum Value in a Grid
 2376. Count Special Integers
 2382. Maximum Segment Sum After Removals
-2386. Find the K Sum of an Array
+2386. Find the K-Sum of an Array
 2392. Build a Matrix With Conditions
 2398. Maximum Number of Robots Within Budget
 2402. Meeting Rooms III
@@ -544,10 +544,10 @@
 2459. Sort Array by Moving Items to Empty Space
 2463. Minimum Total Distance Traveled
 2468. Split Message Based on Limit
-2472. Maximum Number of Non overlapping Palindrome Substrings
+2472. Maximum Number of Non-overlapping Palindrome Substrings
 2474. Customers With Strictly Increasing Purchases
 2478. Number of Beautiful Partitions
-2479. Maximum XOR of Two Non Overlapping Subtrees
+2479. Maximum XOR of Two Non-Overlapping Subtrees
 2484. Count Palindromic Subsequences
 2488. Count Subarrays With Median K
 2493. Divide Nodes Into the Maximum Number of Groups
@@ -558,7 +558,7 @@
 2509. Cycle Length Queries in a Tree
 2514. Count Anagrams
 2518. Number of Great Partitions
-2519. Count the Number of K Big Indices
+2519. Count the Number of K-Big Indices
 2524. Maximum Frequency Score of a Subarray
 2528. Maximize the Minimum Powered City
 2532. Time to Cross a Bridge
@@ -566,3 +566,19 @@
 2538. Difference Between Maximum and Minimum Price Sum
 2543. Check if Point Is Reachable
 2547. Minimum Cost to Split an Array
+2551. Put Marbles in Bags
+2552. Count Increasing Quadruplets
+2561. Rearranging Fruits
+2565. Subsequence With the Minimum Score
+2569. Handling Sum Queries After Update
+2573. Find the String with LCP
+2577. Minimum Time to Visit a Cell In a Grid
+2581. Count Number of Possible Root Nodes
+2584. Split the Array to Make Coprime Products
+2585. Number of Ways to Earn Points
+2589. Minimum Time to Complete All Tasks
+2603. Collect Coins in a Tree
+2604. Minimum Time to Eat All Grains
+2608. Shortest Cycle in a Graph
+2612. Minimum Reverse Operations
+2613. Beautiful Pairs

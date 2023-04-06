@@ -10,7 +10,7 @@
 58. Length of Last Word
 66. Plus One
 67. Add Binary
-69. Sqrt x 
+69. Sqrt(x)
 70. Climbing Stairs
 83. Remove Duplicates from Sorted List
 88. Merge Sorted Array
@@ -22,8 +22,8 @@
 110. Balanced Binary Tree
 111. Minimum Depth of Binary Tree
 112. Path Sum
-118. Pascal s Triangle
-119. Pascal s Triangle II
+118. Pascal's Triangle
+119. Pascal's Triangle II
 121. Best Time to Buy and Sell Stock
 125. Valid Palindrome
 136. Single Number
@@ -35,7 +35,7 @@
 163. Missing Ranges
 168. Excel Sheet Column Title
 169. Majority Element
-170. Two Sum III Data structure design
+170. Two Sum III - Data structure design
 171. Excel Sheet Column Number
 175. Combine Two Tables
 181. Employees Earning More Than Their Managers
@@ -74,7 +74,7 @@
 290. Word Pattern
 292. Nim Game
 293. Flip Game
-303. Range Sum Query Immutable
+303. Range Sum Query - Immutable
 326. Power of Three
 338. Counting Bits
 342. Power of Four
@@ -127,7 +127,7 @@
 543. Diameter of Binary Tree
 551. Student Attendance Record I
 557. Reverse Words in a String III
-559. Maximum Depth of N ary Tree
+559. Maximum Depth of N-ary Tree
 561. Array Partition
 563. Binary Tree Tilt
 566. Reshape the Matrix
@@ -136,12 +136,12 @@
 577. Employee Bonus
 584. Find Customer Referee
 586. Customer Placing the Largest Number of Orders
-589. N ary Tree Preorder Traversal
-590. N ary Tree Postorder Traversal
+589. N-ary Tree Preorder Traversal
+590. N-ary Tree Postorder Traversal
 594. Longest Harmonious Subsequence
 595. Big Countries
 596. Classes More Than 5 Students
-597. Friend Requests I Overall Acceptance Rate
+597. Friend Requests I: Overall Acceptance Rate
 598. Range Addition II
 599. Minimum Index Sum of Two Lists
 603. Consecutive Available Seats
@@ -159,7 +159,7 @@
 637. Average of Levels in Binary Tree
 643. Maximum Average Subarray I
 645. Set Mismatch
-653. Two Sum IV Input is a BST
+653. Two Sum IV - Input is a BST
 657. Robot Return to Origin
 661. Image Smoother
 671. Second Minimum Node In a Binary Tree
@@ -175,7 +175,7 @@
 705. Design HashSet
 706. Design HashMap
 709. To Lower Case
-717. 1 bit and 2 bit Characters
+717. 1-bit and 2-bit Characters
 724. Find Pivot Index
 728. Self Dividing Numbers
 733. Flood Fill
@@ -205,7 +205,7 @@
 860. Lemonade Change
 867. Transpose Matrix
 868. Binary Gap
-872. Leaf Similar Trees
+872. Leaf-Similar Trees
 876. Middle of the Linked List
 883. Projection Area of 3D Shapes
 884. Uncommon Words from Two Sentences
@@ -226,11 +226,11 @@
 942. DI String Match
 944. Delete Columns to Make Sorted
 953. Verifying an Alien Dictionary
-961. N Repeated Element in Size 2N Array
+961. N-Repeated Element in Size 2N Array
 965. Univalued Binary Tree
 976. Largest Perimeter Triangle
 977. Squares of a Sorted Array
-989. Add to Array Form of Integer
+989. Add to Array-Form of Integer
 993. Cousins in Binary Tree
 997. Find the Town Judge
 999. Available Captures for Rook
@@ -274,14 +274,14 @@
 1128. Number of Equivalent Domino Pairs
 1133. Largest Unique Number
 1134. Armstrong Number
-1137. N th Tribonacci Number
+1137. N-th Tribonacci Number
 1141. User Activity for the Past 30 Days I
 1142. User Activity for the Past 30 Days II
 1148. Article Views I
 1150. Check If a Number Is Majority Element in a Sorted Array
 1154. Day of the Year
 1160. Find Words That Can Be Formed by Characters
-1165. Single Row Keyboard
+1165. Single-Row Keyboard
 1173. Immediate Food Delivery I
 1175. Prime Arrangements
 1176. Diet Plan Performance
@@ -310,7 +310,7 @@
 1279. Traffic Light Controlled Intersection
 1280. Students and Examinations
 1281. Subtract the Product and Sum of Digits of an Integer
-1287. Element Appearing More Than 25 In Sorted Array
+1287. Element Appearing More Than 25% In Sorted Array
 1290. Convert Binary Number in a Linked List to Integer
 1294. Weather Type in Each Country
 1295. Find Numbers with Even Number of Digits
@@ -318,8 +318,8 @@
 1303. Find the Team Size
 1304. Find N Unique Integers Sum up to Zero
 1309. Decrypt String from Alphabet to Integer Mapping
-1313. Decompress Run Length Encoded List
-1317. Convert Integer to the Sum of Two No Zero Integers
+1313. Decompress Run-Length Encoded List
+1317. Convert Integer to the Sum of Two No-Zero Integers
 1322. Ads Performance
 1323. Maximum 69 Number
 1327. List the Products Ordered in a Period
@@ -342,7 +342,7 @@
 1389. Create Target Array in the Given Order
 1394. Find Lucky Integer in an Array
 1399. Count Largest Group
-1403. Minimum Subsequence in Non Increasing Order
+1403. Minimum Subsequence in Non-Increasing Order
 1407. Top Travellers
 1408. String Matching in an Array
 1413. Minimum Value to Get Positive Step by Step Sum
@@ -354,7 +354,7 @@
 1431. Kids With the Greatest Number of Candies
 1435. Create a Session Bar Chart
 1436. Destination City
-1437. Check If All 1 s Are at Least Length K Places Away
+1437. Check If All 1's Are at Least Length K Places Away
 1446. Consecutive Characters
 1450. Number of Students Doing Homework at a Given Time
 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
@@ -374,7 +374,7 @@
 1507. Reformat Date
 1511. Customer Order Frequency
 1512. Number of Good Pairs
-1517. Find Users With Valid E Mails
+1517. Find Users With Valid E-Mails
 1518. Water Bottles
 1523. Count Odd Numbers in an Interval Range
 1527. Patients With a Condition
@@ -390,7 +390,7 @@
 1566. Detect Pattern of Length M Repeated K or More Times
 1571. Warehouse Manager
 1572. Matrix Diagonal Sum
-1576. Replace All s to Avoid Consecutive Repeating Characters
+1576. Replace All ?'s to Avoid Consecutive Repeating Characters
 1581. Customer Who Visited but Did Not Make Any Transactions
 1582. Special Positions in a Binary Matrix
 1587. Bank Account Summary II
@@ -416,7 +416,7 @@
 1667. Fix Names in a Table
 1668. Maximum Repeating Substring
 1672. Richest Customer Wealth
-1677. Product s Worth Over Invoices
+1677. Product's Worth Over Invoices
 1678. Goal Parser Interpretation
 1683. Invalid Tweets
 1684. Count the Number of Consistent Strings
@@ -443,7 +443,7 @@
 1763. Longest Nice Substring
 1768. Merge Strings Alternately
 1773. Count Items Matching a Rule
-1777. Product s Price for Each Store
+1777. Product's Price for Each Store
 1779. Find Nearest Point That Has the Same X or Y Coordinate
 1784. Check if Binary String Has at Most One Segment of Ones
 1789. Primary Department for Each Employee
@@ -453,7 +453,7 @@
 1796. Second Largest Digit in a String
 1800. Maximum Ascending Subarray Sum
 1805. Number of Different Integers in a String
-1809. Ad Free Sessions
+1809. Ad-Free Sessions
 1812. Determine Color of a Chessboard Square
 1816. Truncate Sentence
 1821. Find Customers With Positive Revenue this Year
@@ -482,7 +482,7 @@
 1920. Build Array from Permutation
 1925. Count Square Sum Triples
 1929. Concatenation of Array
-1933. Check if String Is Decomposable Into Value Equal Substrings
+1933. Check if String Is Decomposable Into Value-Equal Substrings
 1935. Maximum Number of Words You Can Type
 1939. Users That Actively Request Confirmation Messages
 1941. Check if All Characters Have Equal Number of Occurrences
@@ -504,7 +504,7 @@
 2011. Final Value of Variable After Performing Operations
 2016. Maximum Difference Between Increasing Elements
 2022. Convert 1D Array Into 2D Array
-2026. Low Quality Problems
+2026. Low-Quality Problems
 2027. Minimum Moves to Convert String
 2032. Two Out of Three
 2037. Minimum Number of Moves to Seat Everyone
@@ -520,13 +520,13 @@
 2082. The Number of Rich Customers
 2085. Count Common Words With One Occurrence
 2089. Find Target Indices After Sorting Array
-2094. Finding 3 Digit Even Numbers
+2094. Finding 3-Digit Even Numbers
 2099. Find Subsequence of Length K With the Largest Sum
 2103. Rings and Rods
 2108. Find First Palindromic String in the Array
 2114. Maximum Number of Words Found in Sentences
 2119. A Number After a Double Reversal
-2124. Check if All A s Appears Before All B s
+2124. Check if All A's Appears Before All B's
 2129. Capitalize the Title
 2133. Check if Every Row and Column Contains All Numbers
 2138. Divide a String Into Groups of Size k
@@ -541,7 +541,7 @@
 2185. Counting Words With a Given Prefix
 2190. Most Frequent Number Following Key In an Array
 2194. Cells in a Range on an Excel Sheet
-2200. Find All K Distant Indices in an Array
+2200. Find All K-Distant Indices in an Array
 2205. The Number of Users That Are Eligible for Discount
 2206. Divide Array Into Equal Pairs
 2210. Count Hills and Valleys in an Array
@@ -558,8 +558,8 @@
 2248. Intersection of Multiple Arrays
 2255. Count Prefixes of a Given String
 2259. Remove Digit From Number to Maximize Result
-2264. Largest 3 Same Digit Number in String
-2269. Find the K Beauty of a Number
+2264. Largest 3-Same-Digit Number in String
+2269. Find the K-Beauty of a Number
 2273. Find Resultant Array After Removing Anagrams
 2278. Percentage of Letter in String
 2283. Check if Number Has Equal Digit Count and Digit Value
@@ -569,7 +569,7 @@
 2303. Calculate Amount Paid in Taxes
 2309. Greatest English Letter in Upper and Lower Case
 2315. Count Asterisks
-2319. Check if Matrix Is X Matrix
+2319. Check if Matrix Is X-Matrix
 2325. Decode the Message
 2329. Product Sales Analysis V
 2331. Evaluate Boolean Binary Tree
@@ -621,3 +621,18 @@
 2535. Difference Between Element Sum and Digit Sum of an Array
 2540. Minimum Common Value
 2544. Alternating Digit Sum
+2549. Count Distinct Numbers on Board
+2553. Separate the Digits in an Array
+2558. Take Gifts From the Richest Pile
+2562. Find the Array Concatenation Value
+2566. Maximum Difference by Remapping a Digit
+2570. Merge Two 2D Arrays by Summing Values
+2574. Left and Right Sum Differences
+2578. Split With Minimum Sum
+2582. Pass the Pillow
+2586. Count the Number of Vowel Strings in Range
+2591. Distribute Money to Maximum Children
+2595. Number of Even and Odd Bits
+2600. K Items With the Maximum Sum
+2605. Form Smallest Number From Two Digit Arrays
+2609. Find the Longest Balanced Substring of a Binary String

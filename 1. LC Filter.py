@@ -1,7 +1,7 @@
 import re
 
 # Open the input file for reading
-with open('Easy.txt', 'r') as f:
+with open('Easy_input.txt', 'r') as f:
     # Read the entire contents of the file into a string
     data = f.read()
 
@@ -9,7 +9,7 @@ with open('Easy.txt', 'r') as f:
 matches = re.findall(r'^\d+\. .*', data, re.MULTILINE)
 
 # Open the output file for writing
-with open('output.txt', 'w') as f:
+with open('Easy_output.txt', 'w') as f:
     # Write the filtered lines to the output file
     for match in matches:
         f.write(match + '\n')

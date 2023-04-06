@@ -1868,3 +1868,48 @@ Easy
 69.5%
 Easy
 
+2549. Count Distinct Numbers on Board
+59.9%
+Easy
+2553. Separate the Digits in an Array
+79.6%
+Easy
+2558. Take Gifts From the Richest Pile
+66.6%
+Easy
+2562. Find the Array Concatenation Value
+69.7%
+Easy
+2566. Maximum Difference by Remapping a Digit
+60.3%
+Easy
+2570. Merge Two 2D Arrays by Summing Values
+73.4%
+Easy
+2574. Left and Right Sum Differences
+88.7%
+Easy
+2578. Split With Minimum Sum
+69.8%
+Easy
+2582. Pass the Pillow
+46.3%
+Easy
+2586. Count the Number of Vowel Strings in Range
+77.4%
+Easy
+2591. Distribute Money to Maximum Children
+18.3%
+Easy
+2595. Number of Even and Odd Bits
+70.5%
+Easy
+2600. K Items With the Maximum Sum
+61.7%
+Easy
+2605. Form Smallest Number From Two Digit Arrays
+52.9%
+Easy
+2609. Find the Longest Balanced Substring of a Binary String
+45.1%
+Easy
