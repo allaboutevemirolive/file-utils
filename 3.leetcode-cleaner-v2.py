@@ -16,7 +16,7 @@ with open(outputFile, 'w', encoding="utf-8") as f:
         # format the number with leading zeros
         file_number = match[0].zfill(4)
         # replace spaces with hyphens and make everything lowercase
-        file_name = match[1].replace(' ', '-').lower()
+        file_name = match[1].replace(' ', '-')
         # write the formatted output to file
         f.write(f"{file_number}.{file_name}\n")
 
