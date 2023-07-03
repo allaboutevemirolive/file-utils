@@ -1,48 +1,33 @@
-# leetcode-file-cleaner
+## File Utilities Repository
 
-This repository contains Python code to help you `create folders` for each LeetCode problem.
+This repository contains my *extensive collection* of file utilities that I have developed and refined throughout my entire career in the software industry.
 
-With this, you can experiment with the code offline while keeping everything neat and `organised`.
+---
 
-Since Leetcode does not provide a way to use their API to `scrape` each problem, you need to copy the problem `manually`. 
+### Emphasis on Scripting Style
 
-See the input sample in the Example folder.
+Within this repository, I place a strong emphasis on the *scripting style* in coding, as it has proven to be *immensely advantageous* for my work. The use of scripting allows for *efficient automation* of tasks such as:
 
-# Code Explanation
+- Creating bulk folders
+- Deleting files
+- Performing various other operations
 
-1. leetcodeCleaner.py
+Traditionally, these tasks were accomplished using scripting languages like bash. However, with the remarkable advancements in AI and the ever-expanding possibilities in the technological landscape, almost any programming language can now be utilized as a scripting language.
 
-Filters the input file with removing unnecessary `info` and problematic `symbols` that could hinder the creation of folders. 
+---
 
-Create `json` file for vscode users. It gives flexibility for those who don't want to open each folder manually when they want to test their code.
+### Focus on Rust Programming Language
 
-It then creates a new file with the filtered data.
+In this particular repository, I have chosen to focus primarily on developing file utility scripts using the **Rust programming language**. Rust's unique features make it an excellent choice for creating *reliable and efficient file manipulation tools*. Some of Rust's notable qualities include:
 
-Input :
-```
-1. Two Sum
-49.3%
-Easy
-9. Palindrome Number
-53.2%
-Easy
-13. Roman to Integer
-58.2%
-Easy
-```
+- **Memory safety**: Ensuring secure handling of memory
+- **Performance**: Delivering high-speed execution
+- **Expressive syntax**: Allowing for clear and concise code
 
-Output:
-```
-1. Two Sum
-9. Palindrome Number
-13. Roman to Integer
-```
-___
+By leveraging Rust's capabilities, I aim to deliver *robust and high-performance file utilities* that can be utilized across different platforms and scenarios.
 
-2. Bulk File Creator.py
+---
 
-Creates mass folders with the names provided in the output file.
+### Simplifying Complex Tasks with Scripting
 
-Update
-
-
+As my career has progressed, I have witnessed the *transformative power* of scripting in *simplifying complex tasks* and *enhancing productivity*. With this collection of file utility scripts, I intend to contribute to the broader coding community and provide valuable tools that can *streamline file management processes* for developers and users alike.
